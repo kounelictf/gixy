@@ -1,0 +1,3 @@
+https://github.com/holo-gfx/mangadex
+https://github.com/blazorhero/CleanArchitecture
+https://github.com/XTLS/Xray-core
