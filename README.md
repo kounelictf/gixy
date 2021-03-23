@@ -7,6 +7,16 @@ Easy to use Github / Gitlab repository installer.
 - Git clone History
 - Clone multiple repositories at once
 
+# Requirements
+
+Python3 
+
+# How to Install
+
+Just run the script :D
+
 Any suggestions are welcome <3 
-Twitter: @kounelictf 
+
+Twitter: @kounelictf
+
 Discord: kouneli#1585
