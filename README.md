@@ -15,6 +15,8 @@ Python3
 
 Just run the script :D
 
+# More Info
+
 Any suggestions are welcome <3 
 
 Twitter: @kounelictf
