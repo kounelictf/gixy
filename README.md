@@ -1,4 +1,12 @@
-![Untitled design](https://user-images.githubusercontent.com/62581994/112080280-aca36a00-8b4f-11eb-8719-5746d2679d34.png)
+
+  ________.___________________      _____    _______   
+ /  _____/|   \__    ___/     \    /  _  \   \      \  
+/   \  ___|   | |    | /  \ /  \  /  /_\  \  /   |   \ 
+\    \_\  \   | |    |/    Y    \/    |    \/    |    \
+ \______  /___| |____|\____|__  /\____|__  /\____|__  /
+        \/                    \/         \/         \/ 
+
+
 # GITMAN
 
 Easy to use Github / Gitlab repository installer.
