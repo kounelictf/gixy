@@ -14,6 +14,7 @@ Easy to use Github / Gitlab repository installer.
 # Requirements
 
 Python3 
+Git (windows users)
 
 # How to Install
 
