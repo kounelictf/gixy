@@ -20,8 +20,10 @@ Step 1
 ```pip3 install -r requirements.txt```
 
 Step 2
-
 ```python3 gixy.py```
+
+![image](https://user-images.githubusercontent.com/62581994/112250109-dda29e00-8c26-11eb-9021-15d005a62232.png)
+
 
 # Info
 
