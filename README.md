@@ -2,3 +2,36 @@
 
 # Gixy
 Easy to use Gitlab / Github repository cloner
+
+# Features 
+
+-  Install Repository from Github/Gitlab
+-  View cloning history
+-  Clone multiple repositories at once ( W.I.P)
+
+# Requirements
+
+1. Python3 > 3.0+
+2. Git
+
+# How to Install
+
+Step 1 
+```pip3 install -r requirements.txt```
+
+Step 2
+
+```python3 gixy.py```
+
+# Info
+
+Gixy is intended to gradually be built until its at a suitable stage.
+
+# Developed
+
+Created by Kouneli
+
+Twwitter: @kounelictf
+Discord: kouneli#1585
+
+
