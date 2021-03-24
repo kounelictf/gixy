@@ -1,3 +1,1 @@
-https://github.com/kounelictf/Module-Censys-Test-DryRun.git
 
-https://github.com/kounelictf/drs.git
